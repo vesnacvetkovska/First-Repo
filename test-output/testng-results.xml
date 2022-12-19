@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T18:41:49Z" name="Default suite" finished-at="2022-11-25T18:41:52Z" duration-ms="3147">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T18:41:49Z" name="Default test" finished-at="2022-11-25T18:41:52Z" duration-ms="3147">
+      <class name="Iwec.Vesna.Search">
+        <test-method signature="TC_SEARCH_001_searchForexistingPrudct()[pri:0, instance:Iwec.Vesna.Search@6bbe85a8]" started-at="2022-11-25T18:41:49Z" name="TC_SEARCH_001_searchForexistingPrudct" finished-at="2022-11-25T18:41:52Z" duration-ms="3133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_001_searchForexistingPrudct -->
+      </class> <!-- Iwec.Vesna.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
